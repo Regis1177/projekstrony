@@ -284,3 +284,38 @@ footer p {
   color: #a61e4d;
   font-size: 1.23rem;
 }
+.nav-container {
+  width: 100%;
+  background-color: #c2255c;
+  display: flex;
+  justify-content: center;
+}
+
+.red-background {
+  width: 74%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 20px 0;
+}
+.option--box {
+  display: flex;
+  gap: 32px;
+}
+
+.about-us {
+  padding: 50px 50px;
+}
+
+.about-us h1 {
+  margin-bottom: 20px;
+  color: #212529;
+  text-align: center;
+}
+
+.about-us p {
+  font-size: 18px;
+  color: #495057;
+  line-height: 1.6;
+  margin-bottom: 50px;
+}
