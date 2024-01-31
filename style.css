@@ -273,12 +273,16 @@ footer p {
 .footer--side ul {
   list-style-type: none;
 }
+.footer--side a {
+  text-decoration: none;
+}
 .footer--side li {
   line-height: 1.7;
   cursor: pointer;
   font-size: 1.2rem;
   transition: font-size 200ms;
 }
+
 .footer--side li:hover,
 .footer--side li:active {
   color: #a61e4d;
